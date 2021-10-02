@@ -24,6 +24,8 @@ I'm a passionate for technologie and games since ever. As a Software Engineer, m
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="25px" />
 </div>
 
+<br />
+
 **Mobile and Front End** 
 
 <div style="margin-bottom: 25px;">
@@ -38,6 +40,8 @@ I'm a passionate for technologie and games since ever. As a Software Engineer, m
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px" />
 </div>
 
+<br />
+
 **Back End**
 
 <div style="margin-bottom: 25px;">
@@ -51,6 +55,8 @@ I'm a passionate for technologie and games since ever. As a Software Engineer, m
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="25px" />
 </div>
 
+<br />
+
 **Cloud**
 
 <div style="margin-bottom: 25px;">
@@ -58,6 +64,8 @@ I'm a passionate for technologie and games since ever. As a Software Engineer, m
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" height="25px" />
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="25px" />
 </div>
+
+<br />
 
 **Design**
 
