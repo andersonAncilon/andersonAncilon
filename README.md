@@ -1,9 +1,10 @@
 # Hey welcome! I'm Anderson Ancilon dos Santos
 
-- 💻 I’m currently working on Banco ABC Brasil.
-- 📱 I'm addict to learning more and more about mobile devices.
-- 🌱 Fun fact: I love video games.
-- ❤ I love 👓.
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=pink&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/anderson-ancilon/)
+
+- 💻 I’m currently working on Banco ABC Brasil as a SR Software Engineer.
+- 📱 I'm addict to learn about the mobile, back end and cloud ecosystems.
+- 🌱 Fun fact: I really love video games.
 
 ### About me
 
