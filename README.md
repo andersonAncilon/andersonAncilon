@@ -8,7 +8,7 @@
 
 ### About me
 
-I'm a passionate for technologie and games since ever. As a Software Engineer, my principal objective is deliver a problem solution with love and the best possible quality. As a person, i like to know more people that shares the same love for technologie (and of course, games). Therefore, the thing that i most love, is to trade experiences and knowledge with other people to improve each other.
+I'm a passionate for technologie and games since ever. As a Software Engineer, my principal objective is deliver a problem solution with love and the best possible quality. As a person, I like to know more people that shares the same love for technologie (and of course, games). Therefore, the thing that I most love, is to trade experiences and knowledge with other people to improve each other.
 
 
 ## Knowledge
