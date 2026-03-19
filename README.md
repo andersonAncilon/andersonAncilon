@@ -1,15 +1,13 @@
-# Hey welcome! I'm Anderson Ancilon dos Santos
+# Hey, welcome! I'm Anderson Ancilon dos Santos
 
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=red&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/anderson-ancilon/)
 
-- 💻 I’m currently working on Banco ABC Brasil as a SR Software Engineer.
-- 📱 I'm addict to learn about the mobile, back end and cloud ecosystems.
-- 🎮 Fact: I really love video games.
+- 💻 I’m currently working at Banco ABC Brasil as a Senior Software Engineer.
+- 📱 I’m passionate about learning more about mobile, backend, and cloud ecosystems.
+- 🎮 Fun fact: I really love video games.
 
 ### About me
-
-I'm a passionate for technology and games since ever. As a Software Engineer, my main goal is deliver a problem solution with love and the best quality possible. As a person, I like to know more people who share the same love for technologies (and of course, games). Therefore, the thing that I most love, is to trade experiences and knowledge with other people to improve each other.
-
+I’ve been passionate about technology and games for as long as I can remember. As a Software Engineer, my main goal is to deliver solutions to problems with care and the highest possible quality. As a person, I enjoy connecting with others who share the same passion for technology (and, of course, games). What I love most is exchanging experiences and knowledge with others so we can grow together.
 
 ## Knowledge
 
